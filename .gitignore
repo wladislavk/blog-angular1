@@ -1,0 +1,9 @@
+node_modules
+/.idea
+/vendor
+/.cache
+/.config
+/.npm
+/.bash_history
+/.yarnrc
+/.node-gyp
